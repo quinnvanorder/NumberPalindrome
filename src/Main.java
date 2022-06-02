@@ -18,6 +18,6 @@ be careful with reversing a number, you will need a parameter for comparing the 
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println(NumberPalindrome.isPalindrome(123));
+        System.out.println(NumberPalindrome.isPalindrome(12321));
     }
 }
